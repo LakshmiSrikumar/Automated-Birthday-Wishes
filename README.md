@@ -29,4 +29,8 @@ Add your Gmail address and app password to `.env`
 ```bash
 pip install -r requirements.txt
 python birthday_wish.py
+```
+
+## Result
+
 
