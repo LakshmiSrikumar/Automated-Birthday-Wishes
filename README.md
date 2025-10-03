@@ -33,4 +33,4 @@ python birthday_wish.py
 
 ## Result
 
-
+![Image](https://github.com/LakshmiSrikumar/Automated-Birthday-Wishes/blob/defcdabf2f93580b958e1a5c6e602bf877431e4b/sample%20img.jpg)
